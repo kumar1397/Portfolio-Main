@@ -50,7 +50,7 @@ const About = () => {
         I’m a final-year student at NIT Rourkela with hands-on experience in full-stack web development and a strong foundation in software engineering. I have worked on building responsive, user-centered applications through internships and open-source contributions, with a focus on enhancing user engagement and optimizing performance. 
       </motion.p>
 
-      <div className='mt-20 flex flex-wrap gap-10'>
+      <div className='mt-20 flex flex-wrap justify-between'>
         {services.map((service, index) => (
           <ServiceCard key={service.title} index={index} {...service} />
         ))}
