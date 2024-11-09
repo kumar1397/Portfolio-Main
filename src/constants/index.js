@@ -1,24 +1,19 @@
 import {
-  mobile,
   backend,
   creator,
   web,
   javascript,
   typescript,
-  html,
-  css,
   reactjs,
+  nextjs,
   redux,
-  tailwind,
   nodejs,
   mongodb,
   git,
   figma,
   docker,
-  meta,
-  starbucks,
-  tesla,
-  shopify,
+  gssoc,
+  wiZe,
   carrent,
   jobit,
   tripguide,
@@ -57,14 +52,6 @@ const services = [
 
 const technologies = [
   {
-    name: "HTML 5",
-    icon: html,
-  },
-  {
-    name: "CSS 3",
-    icon: css,
-  },
-  {
     name: "JavaScript",
     icon: javascript,
   },
@@ -77,12 +64,12 @@ const technologies = [
     icon: reactjs,
   },
   {
-    name: "Redux Toolkit",
-    icon: redux,
+    name:"Next JS",
+    icon: nextjs
   },
   {
-    name: "Tailwind CSS",
-    icon: tailwind,
+    name: "Redux Toolkit",
+    icon: redux,
   },
   {
     name: "Node JS",
@@ -114,7 +101,7 @@ const experiences = [
   {
     title: "Next js Developer",
     company_name: "Mylamp.ai",
-    icon: starbucks,
+    icon: wiZe,
     iconBg: "#383E56",
     date: "May 2024 - August 2024",
     points: [
@@ -127,7 +114,7 @@ const experiences = [
   {
     title: "Contributor",
     company_name: "GSSoC 24",
-    icon: tesla,
+    icon: gssoc,
     iconBg: "#E6DEDD",
     date: "May 2024 - July 2024",
     points: [
