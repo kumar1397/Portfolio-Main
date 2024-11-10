@@ -105,10 +105,10 @@ const experiences = [
     iconBg: "#383E56",
     date: "May 2024 - August 2024",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Developed an ed-tech platform using Next.js, built a responsive and user-friendly front-end with Next.js.",
+      "Engineered secure NextAuth authentication, implemented secure NextAuth authentication.",
+      "Utilized Prisma ORM for efficient database management, optimized database management with Prisma ORM.",
+      "Collaborated with a cross-functional team to integrate user feedback and iterate on features.",
     ],
   },
   {
@@ -118,10 +118,10 @@ const experiences = [
     iconBg: "#E6DEDD",
     date: "May 2024 - July 2024",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Participating in GSSoC 2024 by contributing to open-source projects, focusing on developing and enhancing software solutions.",
+      "Actively collaborating with the developer community to share knowledge and implement best practices.",
+      "This engagement has led to optimized code quality and improved project efficiency.",
+     
     ],
   },
   
