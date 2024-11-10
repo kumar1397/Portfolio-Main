@@ -22,13 +22,12 @@ import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
 
-
 import wiZe from "./company/wiZe.png";
 import gssoc from "./company/gssoc.png";
 
-import carrent from "./carrent.png";
-import jobit from "./jobit.png";
-import tripguide from "./tripguide.png";
+import collegemart from './tech/collegemart.png';
+import Shopsy from "./tech/Shopsy.png";
+import Techblog from "./tech/Techblog.png";
 
 export {
   logo,
@@ -55,7 +54,7 @@ export {
   threejs,
   wiZe,
   gssoc,
-  carrent,
-  jobit,
-  tripguide,
+  collegemart,
+  Shopsy,
+  Techblog,
 };

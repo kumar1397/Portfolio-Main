@@ -14,10 +14,10 @@ import {
   docker,
   gssoc,
   wiZe,
-  carrent,
-  jobit,
-  tripguide,
   threejs,
+  collegemart,
+  Shopsy,
+  Techblog,
 } from "../assets";
 
 export const navLinks = [
@@ -156,9 +156,9 @@ const testimonials = [
 
 const projects = [
   {
-    name: "Car Rent",
+    name: "CollegeMart",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      "A marketplace for college student to buy and sell items, using the MERN stack, focused on creating a user friendly interface and efficient backend to facilitate smooth transactions and enhance campus connectivity.",
     tags: [
       {
         name: "react",
@@ -173,50 +173,50 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: carrent,
-    source_code_link: "https://github.com/",
+    image: collegemart,
+    source_code_link: "https://github.com/kumar1397/College-Mart",
   },
   {
-    name: "Job IT",
+    name: "Shopsy",
     description:
-      "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+      "A dynamic React project enabling users to browse and manage product listings, utilizing React Redux for state management, using various React hooks for functionality, fetching all the data using API integration",
     tags: [
       {
         name: "react",
         color: "blue-text-gradient",
       },
       {
-        name: "restapi",
+        name: "react redux",
         color: "green-text-gradient",
       },
       {
-        name: "scss",
+        name: "tailwind",
         color: "pink-text-gradient",
       },
     ],
-    image: jobit,
-    source_code_link: "https://github.com/",
+    image: Shopsy,
+    source_code_link: "https://github.com/kumar1397/Ecomzy",
   },
   {
-    name: "Trip Guide",
+    name: "Techblog",
     description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+      "A tech blog platform built with Next.js, Prisma, and MongoDB, allowing users to post articles with images, tags, and author profiles. The blog provides an intuitive interface for reading and sharing the latest in technology.",
     tags: [
       {
         name: "nextjs",
         color: "blue-text-gradient",
       },
       {
-        name: "supabase",
+        name: "prisma",
         color: "green-text-gradient",
       },
       {
-        name: "css",
+        name: "tailwind",
         color: "pink-text-gradient",
       },
     ],
-    image: tripguide,
-    source_code_link: "https://github.com/",
+    image: Techblog,
+    source_code_link: "https://github.com/kumar1397/nextjs-blog-app",
   },
 ];
 
